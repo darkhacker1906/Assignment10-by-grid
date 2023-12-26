@@ -15,7 +15,6 @@
   .top_div {
     height: 15%;
     width: 80%;
-    background-color: aqua;
     display: flex;
   }
   /* box 1 starts here------------------- */
@@ -24,7 +23,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: white;
+    color: #ffffff;
   }
   .orange {
     background-color: #faa000;
@@ -45,7 +44,6 @@
   .bottom_div {
     height: 15%;
     width: 80%;
-    background-color: aqua;
     display: flex;
   }
   .order_orange {
